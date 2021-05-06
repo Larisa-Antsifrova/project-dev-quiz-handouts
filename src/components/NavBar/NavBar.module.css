@@ -1,0 +1,15 @@
+.nav {
+  background-color: lightcoral;
+  color: #ffffff;
+}
+
+.link {
+  display: inline-block;
+  color: #ffffff;
+  padding: 20px 30px;
+  text-decoration: none;
+}
+
+.link:hover {
+  background-color: indianred;
+}
