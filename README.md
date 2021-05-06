@@ -1,2 +1,5 @@
 # project-AppCo
-Test task attempt.
+
+Test task:
+
+- Front-end part.
