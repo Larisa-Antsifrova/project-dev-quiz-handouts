@@ -9134,8 +9134,8 @@ input[type=range]::-ms-thumb {
 
 body {
 	color: #ffffff;
-  background-color: #D9AFD9;
-    background-image: linear-gradient(315deg, #D9AFD9 0%, #97D9E1 54%);
+  background-color: black;
+    background-image: linear-gradient(315deg, black 0%, #4340c1 54%);
 }
 
 main {
@@ -9147,4 +9147,15 @@ main {
   height: 300px;
   width: auto;
   object-fit: scale-down;
+}
+
+.collection {
+  color: #333333;
+  font-size: 20px;
+  border: none;
+}
+
+.collection .collection-item {
+  margin-bottom: 20px;
+  border-radius: 4px;
 }
